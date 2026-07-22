@@ -5,8 +5,6 @@ UI and [miniaudio](https://github.com/mackron/miniaudio) (a single vendored
 header, no extra system dependencies) for sound. Runs on Linux, Windows, and
 macOS.
 
-![widget] WORK 24:31 · ▶ ⏭ ↺ ⚙
-
 ## Features
 
 - **Floating mini widget** — frameless, always-on-top, draggable. Its position
